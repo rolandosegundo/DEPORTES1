@@ -1,0 +1,286 @@
+# #EXTM3U
+#EXTINF:-1, TUDN
+http://qqtv.nl:8080/live/norma/12345/20116.m3u8
+
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="Deportes", AFIZZIONADOS
+http://blackaddon.com/play/zufree-156.php?c=3193
+
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="Deportes", AFIZZIONADOS
+http://blackaddon.com/play/zufree-156.php?c=3193
+
+#EXTINF:-1, AFIZZIONADOS
+http://tv-privado.live:8080/phklauraa/FS5csQbw1d/30221
+
+#EXTINF:-1, ECDF 🇪🇨
+http://qqtv.nl:8080/live/norma/12345/416280.m3u8
+
+#EXTINF:-1, WIN SPORTS 1 🇨🇴
+http://qqtv.nl:8080/live/norma/12345/20234.m3u8
+
+#EXTINF:-1, WIN SPORTS + 🇨🇴
+http://qqtv.nl:8080/live/norma/12345/20321.m3u8
+
+#EXTINF:-1, TIGO SPORTS 1 🇧🇴
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234814
+
+#EXTINF:-1, TIGO SPORTS 1 🇧🇴
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/414
+
+#EXTINF:-1, TIGO SPORTS 2 🇧🇴
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/412
+
+#EXTINF:-1, TIGO SPORTS 🇨🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31195
+
+#EXTINF:-1, TIGO SPORTS 🇵🇾
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1711
+
+#EXTINF:-1, DEPORTV ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/397211.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES 1 🇪🇸
+http://qqtv.nl:8080/live/norma/12345/275183.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1, TNT SPORTS 3
+http://qqtv.nl:8080/live/norma/12345/389559.m3u8
+
+#EXTINF:-1, CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20130.m3u8
+
+#EXTINF:-1, CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20162.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT
+http://qqtv.nl:8080/live/norma/12345/20198.m3u8
+
+#EXTINF:-1, TUDN
+http://qqtv.nl:8080/live/norma/12345/20116.m3u8
+
+#EXTINF:-1, GOL televisión USA 🇺🇸
+http://qqtv.nl:8080/live/norma/12345/20286.m3u8
+
+#EXTINF:-1,CABLE SPORTS
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+
+#EXTINF:-1, ESPN 1 ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20101.m3u8
+
+#EXTINF:-1, ESPN 2 ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/275190.m3u8
+
+#EXTINF:-1, ESPN 3 ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20056.m3u8
+
+#EXTINF:-1, ESPN VIVO 1
+http://qqtv.nl:8080/live/norma/12345/275187.m3u8
+
+#EXTINF:-1, ESPN VIVO 2
+http://qqtv.nl:8080/live/norma/12345/20102.m3u8
+
+#EXTINF:-1, ESPN VIVO 3
+http://qqtv.nl:8080/live/norma/12345/20103.m3u8
+
+#EXTINF:-1, ESPN VIVO
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
+#EXTINF:-1, ESPN HD
+http://qqtv.nl:8080/live/norma/12345/7913.m3u8
+
+#EXTINF:-1, ESPN HD
+http://54.39.49.162:8081/USA%7CESPN/SPORTS/playlist.m3u8
+
+#EXTINF:-1, ESPN 2 HD
+http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
+
+#EXTINF:-1, ESPN EXTRA
+http://qqtv.nl:8080/live/norma/12345/7915.m3u8
+
+#EXTINF:-1, ESPN EXTRA BRASIL 🇧🇷
+https://liv11octhd.stblauncher.com/live/34_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ESPN HD 2 BRASIL 🇧🇷
+https://liv11octhd.stblauncher.com/live/5912_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ESPN HD 3 BRASIL 🇧🇷
+https://liv11octhd.stblauncher.com/live/5910_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ESPN 1 HOLANDA 🇳🇱
+http://84.84.196.164:9999/play/a06l
+
+#EXTINF:-1, ESPN 2 HOLANDA 🇳🇱
+http://84.84.196.164:9999/play/a018
+
+#EXTINF:-1, ESPN 3 HOLANDA 🇳🇱
+http://84.84.196.164:9999/play/a04d
+
+#EXTINF:-1, ESPN 4 HOLANDA 🇳🇱
+http://84.84.196.164:9999/play/a019
+
+#EXTINF:-1, DIRECTV CHILE 🇨🇱
+http://qqtv.nl:8080/live/norma/12345/20406.m3u8
+
+#EXTINF:-1, DIRECTV 1 ECUADOR 🇪🇨
+http://qqtv.nl:8080/live/norma/12345/20227.m3u8
+
+#EXTINF:-1, DIRECTV 2 ECUADOR 🇪🇨
+http://qqtv.nl:8080/live/norma/12345/20319.m3u8
+
+#EXTINF:-1, DIRECTV + ECUADOR 🇪🇨
+http://qqtv.nl:8080/live/norma/12345/20059.m3u8
+
+#EXTINF:-1, FOX SPORTS SUR 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20128.m3u8
+
+#EXTINF:-1, FOX SPORTS 1 MX 🇲🇽
+http://qqtv.nl:8080/live/norma/12345/20095.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 MX 🇲🇽
+http://qqtv.nl:8080/live/norma/12345/20097.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 MX 🇲🇽
+http://qqtv.nl:8080/live/norma/12345/20096.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20086.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 ARG 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20262.m3u8
+
+#EXTINF:-1, FOX SPORTS COLOMBIA 🇨🇴
+http://qqtv.nl:8080/live/norma/12345/20219.m3u8
+
+#EXTINF:-1, FOX SPORTS CHILE 1 🇨🇱
+http://qqtv.nl:8080/live/norma/12345/20084.m3u8
+
+#EXTINF:-1, FOX SPORTS CHILE 2 🇨🇱
+http://qqtv.nl:8080/live/norma/12345/58292.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20311.m3u8
+
+#EXTINF:-1, DIRECTV SPORT + 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20261.m3u8
+
+#EXTINF:-1, ESPN 1 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20269.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20268.m3u8
+
+#EXTINF:-1, ESPN + 🇳🇮
+http://qqtv.nl:8080/live/norma/12345/20062.m3u8
+
+#EXTINF:-1, ESPN DEPORTES HD 🇳🇮
+http://38971899473165467.niceyes.xyz:80/CDLYWZAK84/3262457057/165467
+
+#EXTINF:-1, DIRECTV SPORT 1 🇦🇷
+http://qqtv.nl:8080/live/norma/12345/20106.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1 🇦🇷
+http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1 🇦🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26524
+
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/103064
+
+#EXTINF:-1, DIRECTV SPORT + 🇦🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/103065
+
+#EXTINF:-1, DIRECTV SPORT 1 🇦🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101873
+
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31164
+
+#EXTINF:-1, SKY SPORTS MX 🇲🇽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
+
+#EXTINF:-1, SKY SPORTS MX 🇲🇽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31812
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+https://tunelive.net:3412/stream/play.m3u8
+#EXTINF:-1,beIN SPORTS Ñ 🇪🇸
+http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
+
+#EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA 🇪🇸
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA Ñ 🇪🇸
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1, BEINSPORT Ñ 🇪🇸
+http://qqtv.nl:8080/live/norma/12345/88420.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1, M. LaLiga
+http://37.135.72.182:8001/1:0:1:7797:424:1:C00000:0:0:0:
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://qqtv.nl:8080/live/norma/12345/31019.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://qqtv.nl:8080/live/norma/12345/87460.m3u8
+#EXTINF:-1, DIRECTV ECU 🇪🇨
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26941
+
+#EXTINF:-1, DIRECTV PGY 🇵🇾
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132133
+
+#EXTINF:-1, MOVISTAR LALIGA HD 🇪🇸
+http://38971899473165392.niceyes.xyz:80/CDLYWZAK84/3262457057/165392
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3061
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137259
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13914
+
+#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/114
+
+#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13699
+
+#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/60379
+
+#EXTINF:-1, MOVISTAR LALIGA 3 🇪🇸
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109225
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/71784
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/91
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://38971899473267794.niceyes.xyz:80/CDLYWZAK84/3262457057/267794
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://62.175.90.170:9981/stream/channelid/266536058?profile=pass
